@@ -1,0 +1,7 @@
+.btn {
+  @apply font-bold;
+
+  &.btn-primary {
+    @apply shadow-lg shadow-accent;
+  }
+}

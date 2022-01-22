@@ -1,0 +1,9 @@
+@import "@animxyz/core";
+@include xyz-all;
+
+@import "./tailwind";
+
+@import "./components/buttons";
+@import "./components/headings";
+@import "./components/alert";
+@import "./components/gradients";

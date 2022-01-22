@@ -1,0 +1,12 @@
+.alert {
+  position: relative;
+  &:before {
+    height: 100%;
+    width: 3px;
+    background-color: currentColor;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
